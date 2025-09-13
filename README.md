@@ -190,25 +190,12 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 
 ## Professional Experience 💼
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <a href="https://techscape.pk" target="_blank">
-    <img src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png" alt="Techscape" height="80" />
-  </a>
 
-  <a href="https://devsinc.com/e" target="_blank">
-    <img src="https://hrm-production.s3.amazonaws.com/uploads/company/logo/10/f452489720.png" alt="JORR" height="80" />
-  </a>
-  
-  <a href="https://https://proailab.com/" target="_blank">
-    <img src="https://proailab.com/wp-content/uploads/2023/02/proailab-light-e1677569914511.png" alt="DevelopersDen" height="80" />
-  </a>
-
-</div>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
-- Developed robust and scalable backend systems using Node and Laravel, leveraging the power of websockets.
-- Collaborated with cross-functional teams to build dynamic web applications using Node.js and React.js.
-- Proficient in coding with C/C++, Python, Java, TypeScript, and JavaScript, bringing versatility to my development skills.
+- Developed robust and scalable backend systems using Node, Nest and serverless, leveraging the power of websockets.
+- Collaborated with cross-functional teams to build dynamic web applications
+- Proficient in coding with C/C++, Python, TypeScript, and JavaScript, bringing versatility to my development skills.
 - Implemented efficient algorithms and data structures to optimize performance and enhance user experiences.
 - Specialize in building interactive bots for platforms like Discord and Slack, integrating them with various APIs.
 - Experienced in creating real-time applications using websockets for seamless and instant communication.
