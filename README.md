@@ -55,14 +55,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     />
   </a>
   
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="80"
-      height="80"
-    />
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -113,23 +105,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     />
   </a>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="80"
-      height="80"
-    />
-  </a>
-
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -142,14 +117,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
       width="80"
       height="80"
     />
@@ -182,9 +149,9 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
 </p>
 
-- **Languages:** Node.js, React.js, PHP , C/C++, Python, C# Java, TypeScript, JavaScript
-- **Backend:** Node.js, Express, Websockets, Laravel
-- **Frontend:** Angular.js,React.js,Ionic, HTML, CSS, JavaScript, Bootstrap
+- **Languages:** Node.js, React.js, PHP , C/C++, Python, TypeScript, JavaScript
+- **Backend:** Node.js, Express, Websockets
+- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 - **Other Skills:** AWS, Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
 
